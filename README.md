@@ -6,7 +6,16 @@ A full-featured **desktop inventory application** built with Java Swing and MySQ
 
 ## 🖥️ Screenshots
 
-> Dashboard with live stats, sidebar navigation, and color-coded stock status.
+<img width="1600" height="996" alt="image" src="https://github.com/user-attachments/assets/a775f182-28fb-45ee-bf29-6a8adae240a5" />
+<img width="1600" height="1005" alt="image" src="https://github.com/user-attachments/assets/5484be6e-e3a8-4ceb-9fd1-86c8a830d787" />
+<img width="1276" height="851" alt="image" src="https://github.com/user-attachments/assets/e3da79ba-9cbf-4c8a-91c3-1d443cf416bf" />
+<img width="1278" height="815" alt="image" src="https://github.com/user-attachments/assets/b690ab66-fd8e-436b-8b9d-90b8daafa1a1" />
+<img width="1562" height="607" alt="image" src="https://github.com/user-attachments/assets/5459954b-e2d6-4cb0-b4e7-fe4d40547c9e" />
+<img width="1592" height="649" alt="image" src="https://github.com/user-attachments/assets/38cf5fe7-db04-4e60-9ed0-680fd1b1027d" />
+
+
+
+
 
 ---
 
