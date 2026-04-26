@@ -1,0 +1,15 @@
+# Compiled classes
+*.class
+
+# Environment variables - NEVER commit this
+.env
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
